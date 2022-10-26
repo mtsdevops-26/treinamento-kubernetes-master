@@ -13,7 +13,7 @@ Material para treinamento Kubernetes 1.11
 - Fazer docker login nos host's
 #### Exercício 2 
 - Fazer build dos containers e rodar aplicação no host
-- Cada aluno irá construir as imagens para seus projetos
+- Construir as imagens para seus projetos
 - Fazer push para o registro
 #### Exercício 3
 - Instalar Rancher Single Node
